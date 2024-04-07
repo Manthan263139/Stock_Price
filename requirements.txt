@@ -1,0 +1,8 @@
+ numpy
+ pandas
+ matplotlib
+ andas_datareader
+ keras.models
+load_model
+streamlit
+seaborn

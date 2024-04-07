@@ -1,7 +1,7 @@
  numpy
  pandas
  matplotlib
- andas_datareader
+ pandas_datareader
  keras.models
 load_model
 streamlit

@@ -3,6 +3,6 @@
  matplotlib
  pandas_datareader
  keras.models
-load_model
+
 streamlit
 seaborn

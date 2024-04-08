@@ -1,4 +1,4 @@
- Streamlit
+Streamlit
 pandas
 numpy
 matplotlib
@@ -6,5 +6,4 @@ scikit-learn
 tensorflow
 keras
 pandas_datareader
-
-
+seaborn

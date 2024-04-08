@@ -1,10 +1,8 @@
- numpy
- pandas
- matplotlib
- pandas_datareader
-from keras.models import load_model
-yfinance 
+ Streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
 
-
-streamlit
-seaborn

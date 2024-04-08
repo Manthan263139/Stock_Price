@@ -3,8 +3,8 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow==2.x  # Replace '2.x' with your TensorFlow version, e.g., '2.6.0'
-keras==2.x       # Replace '2.x' with your Keras version, e.g., '2.6.0'
+tensorflow 
+keras      
 pandas_datareader
 seaborn
 yfinance

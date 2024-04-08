@@ -2,7 +2,9 @@
  pandas
  matplotlib
  pandas_datareader
- keras.models
+from keras.models import load_model
+yfinance 
+
 
 streamlit
 seaborn
